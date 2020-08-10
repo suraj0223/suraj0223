@@ -1,4 +1,5 @@
 ### Hi there, I'm Suraj 
+> I intoduce myself as a programmer.Inquisitive learner
 
 ## I'm a Student, Programmer and Developer !
 - 👯 I’m looking to collaborate with other content creators
