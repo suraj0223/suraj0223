@@ -26,11 +26,15 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
-<br />
+
+### Github Stats :
+
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=suraj0223&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj0223&theme=cobalt&layout=compact)
+
 <br />
 
 ---
-
 
 [instagram]: https://www.instagram.com/suraj_7_kumar
 [linkedin]: https://www.linkedin.com/in/suraj-kumar-05889b194
