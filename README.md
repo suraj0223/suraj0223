@@ -1,24 +1,27 @@
-# **Hi there, I'm Suraj** <img src="https://hdsmileys.com/wp-content/uploads/2017/11/hello.gif" width="55px" style=" margin: -16px 10px">
 
-> I introduce myself as a programmer.
->
-> A Inquisitive learner.
+# **Hi! I am Suraj**
 
-## I'm a Student, Programmer and a Developer !
+![banner](./assets/bannerImage.png)
 
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 `2020 Goals :` Contribute more to Open Source and connect with others.
-- ⚡ `Fun fact :` I love Panipuri 🤣.
-- 🌱 `Interest :` Singing, Coding, Cricket, Volleyball, Science fiction, Travelling.
+I'm a student who is passionate about making open-source more accessible, enthusiast about latest technology and always open to learn. Some technologies I enjoy working with include Flutter & Dart. I loved to work on
+Android projects through Flutter. In addition to this I am having a good sound of designing and analysis of Algorithm. For more about programming head to [Leetcode](https://leetcode.com/suraj0223/).
 
+`Specialities:` C++, Python, Flutter, Firebase, MySql
 
-### Connect with me :
+<a>
+ <p align="right" >Profile Visitor</p>
+ <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=suraj0223.suraj0223" />
+</a>
 
-[<img align="left" alt="LinkedIn" width="30px" height ="35px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG22.png" style=" margin: 5px 5px" />][linkedin]
-[<img alt="Instagram" width="35px" height ="35px" src="https://i.pinimg.com/originals/03/ea/1e/03ea1e0f50e5077829d3cc4bc13555e2.png" style=" margin: 5px 5px"/>][instagram]
+## **Find me around the web** 🌎: <a><img align="right" height="200" width="250px" src="./assets/octocat.gif"></a>
 
+[<img align="left" alt="LinkedIn" width="30px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG22.png" style=" margin: 5px 5px" />][linkedin]
+[<img align="left" alt="Instagram" width="30px" src="https://i.pinimg.com/originals/03/ea/1e/03ea1e0f50e5077829d3cc4bc13555e2.png" style=" margin: 5px 5px"/>][instagram]
+[<img align="left" alt="Gmail" width="30px" height = "30px" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" style=" margin: 5px 5px"/>][Gmail]
 
-### Languages and Tools : 
+<br align="left"></br>
+
+## **Languages and Tools:**
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -40,19 +43,15 @@
 
 <img align="left" alt="Java" width="70px" height = "30px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
 
+<br align="left"></br>
 
-<a>
- <p align="right" >Profile Visitor</p>
- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=suraj0223.suraj0223" />
-</a>
-
-### Github Stats :
+## **Github Stats**
 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=suraj0223&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj0223&theme=cobalt&layout=compact)
 
-<br />
 ---
 
 [instagram]: https://www.instagram.com/suraj_7_kumar
 [linkedin]: https://www.linkedin.com/in/suraj-kumar-05889b194
+[Gmail]: mailto:surajvijay71@gmail.com
