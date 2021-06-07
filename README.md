@@ -10,7 +10,7 @@ Android projects through Flutter. In addition to this I am having a good sound o
 
 <a>
  <p align="right" >Profile Visitor</p>
- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=suraj0223.suraj0223" />
+ <img align="right" src="https://profile-counter.glitch.me/suraj0223/count.svg" />
 </a>
 
 ## **Find me around the web** 🌎: <a><img align="right" height="200" width="250px" src="./assets/octocat.gif"></a>
