@@ -6,12 +6,9 @@
 I'm a student who is passionate about making open-source more accessible, enthusiast about latest technology and always open to learn. Some technologies I enjoy working with include Flutter & Dart. I loved to work on
 Android projects through Flutter. In addition to this I am having a good sound of designing and analysis of Algorithm. For more about programming head to [Leetcode](https://leetcode.com/suraj0223/).
 
-`Specialities:` C++, Python, Flutter, Firebase, MySql
+`Specialities:` C++, Python, Flutter, Firebase, MySql <img align="right" src="https://profile-counter.glitch.me/suraj0223/count.svg" />
 
-<a>
- <p align="right" >Profile Visitor</p>
- <img align="right" src="https://profile-counter.glitch.me/suraj0223/count.svg" />
-</a>
+
 
 ## **Find me around the web** 🌎: <a><img align="right" height="200" width="250px" src="./assets/octocat.gif"></a>
 
