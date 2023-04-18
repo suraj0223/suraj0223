@@ -1,13 +1,10 @@
 
-# **Hi! I am Suraj**
+# **Hi! I am Suraj** 👋🏻
 
-![banner](./assets/bannerImage.png)
 
-I'm a student who is passionate about making open-source more accessible, enthusiast about latest technology and always open to learn. Some technologies I enjoy working with include Flutter & Dart. I loved to work on
-Android projects through Flutter. In addition to this I am having a good sound of designing and analysis of Algorithm. For more about programming head to [Leetcode](https://leetcode.com/suraj0223/).
+I'm a working professional who is passionate about making open-source more accessible, enthusiast about latest technology and always open to learn. I always wanted to be a newbies in asking tons of questions while working on new super cool technology. 
 
-`Specialities:` C++, Python, Flutter, Firebase, MySql <img align="right" src="https://profile-counter.glitch.me/suraj0223/count.svg" />
-
+`Specialities:` JAVA, Python, SpringBoot, AWS, Graphql <img align="right" src="https://profile-counter.glitch.me/suraj0223/count.svg" />
 
 
 ## **Find me around the web** 🌎: <a><img align="right" height="200" width="250px" src="./assets/octocat.gif"></a>
@@ -50,5 +47,5 @@ Android projects through Flutter. In addition to this I am having a good sound o
 ---
 
 [instagram]: https://www.instagram.com/suraj_7_kumar
-[linkedin]: https://www.linkedin.com/in/suraj-kumar-05889b194
+[linkedin]: https://www.linkedin.com/in/suraj0223
 [Gmail]: mailto:surajvijay71@gmail.com
