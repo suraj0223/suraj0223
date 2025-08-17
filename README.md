@@ -2,16 +2,16 @@
 # **Hi! I am Suraj** 👋🏻
 
 
-I'm a working professional who is passionate about making open-source more accessible, enthusiast about latest technology and always open to learn. I always wanted to be a newbies in asking tons of questions while working on new super cool technology. 
+I'm a working professional who is passionate about making open-source software more accessible, an enthusiast about the latest technology, and always open to learning. I always wanted to be a newbie, asking tons of questions while working on new, super cool technology. 
 
-`Specialities:` JAVA, Python, SpringBoot, AWS, Graphql <img align="right" src="https://profile-counter.glitch.me/suraj0223/count.svg" />
+`Specialities:` JAVA, Python, SpringBoot, AWS, GraphQL <img align="right" src="https://profile-counter.glitch.me/suraj0223/count.svg" />
 
 
 ## **Find me around the web** 🌎: <a><img align="right" height="200" width="250px" src="./assets/octocat.gif"></a>
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG22.png" style=" margin: 5px 5px" />][linkedin]
-[<img align="left" alt="Instagram" width="30px" src="https://i.pinimg.com/originals/03/ea/1e/03ea1e0f50e5077829d3cc4bc13555e2.png" style=" margin: 5px 5px"/>][instagram]
-[<img align="left" alt="Gmail" width="30px" height = "30px" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" style=" margin: 5px 5px"/>][Gmail]
+[<img align="left" alt="LinkedIn" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllNbtXaEUaCuGkcHhD6Wqb7QzOD0KGeYgkw&s" style=" margin: 5px 5px" />][linkedin]
+[<img align="left" alt="Instagram" width="30px" src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg" style=" margin: 5px 5px"/>][instagram]
+[<img align="left" alt="Gmail" width="30px" height = "30px" src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" style=" margin: 5px 5px"/>][Gmail]
 
 <br align="left"></br>
 
