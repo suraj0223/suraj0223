@@ -2,9 +2,9 @@
 # **Hi! I am Suraj** 👋🏻
 
 
-I'm a working professional who is passionate about making open-source software more accessible, an enthusiast about the latest technology, and always open to learning. I always wanted to be a newbie, asking tons of questions while working on new, super cool technology. 
+Passionate software professional focused on making open-source software more accessible. Strong interest in emerging technologies, continuous learning, and collaborating across teams by asking thoughtful questions and quickly ramping up on new tools and platforms.
 
-`Specialities:` JAVA, Python, SpringBoot, AWS, GraphQL <img align="right" src="https://profile-counter.glitch.me/suraj0223/count.svg" />
+`Specialities:` JAVA, REST, GraphQL, AWS (Kinesis, Flink, ECS, S3, Lamda, EC2, Elasitcache, DynamoDB), SpringBoot
 
 
 ## **Find me around the web** 🌎: <a><img align="right" height="200" width="250px" src="./assets/octocat.gif"></a>
